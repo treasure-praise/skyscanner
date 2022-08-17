@@ -18,7 +18,7 @@ const App = () => (
       <BpkText tagName="p" className={c('App__text')}>
         To get started, edit <BpkCode>src/App.jsx</BpkCode> and save to reload.
       </BpkText>
-      <BpkButton onClick={() => alert('It works!')}>Click me</BpkButton>
+      <BpkButton onClick={() => alert('It works!')}>Continue</BpkButton>
     </main>
   </div>
 );
